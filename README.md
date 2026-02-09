@@ -1,9 +1,20 @@
-## <a name="tech-stack">⚙️ Tech Stack</a>
+![mojito](./public/images/readme.png)
 
-- **[GSAP](https://gsap.com/)** is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
+## 🍹 Mojito GSAP Practice
 
-- **[React](https://react.dev/)** is a declarative JavaScript library for building interactive UIs. It provides the component structure for modular development, allowing smooth integration of GSAP animations, reusable logic for scroll behavior, and support for responsive layout and state-driven UI features like carousels and video sections.
+A visually stunning and dynamic landing page built to master professional web animations. This project showcases smooth transitions and complex visual effects triggered by user interaction.
 
-- **[Tailwind CSS](https://tailwindcss.com/)** is a utility-first CSS framework that allows developers to design custom user interfaces by applying low-level utility classes directly in HTML, streamlining the design process.
+## ✨ Features
 
-- **[Vite](https://vitejs.dev/)** is a lightning-fast build tool and development server that powers this project’s workflow. It enables instant hot module replacement, fast startup, and optimized production builds—ideal for an animation-heavy React site with smooth, real-time development feedback and minimal config.
+- GSAP Animations: Leverages the GreenSock Animation Platform to - create high-performance timelines and seamless element transitions.
+- Parallax Effects: Drink elements and ingredients react to user actions, creating a rich sense of depth and immersion.
+- Enhanced UI/UX: Features modern typography and a vibrant color palette tailored to the product's refreshing theme.
+- Interactive Experience: Every click or scroll event is paired with thoughtful visual feedback to engage the user.
+- Fully Responsive: Animations and layouts are optimized to function correctly across all device types.
+
+## 🛠️ Tech Stack
+
+- HTML5 & CSS3: Semantic structure and advanced styling, including complex absolute/relative positioning for animated layers.
+- JavaScript (ES6+): Core logic for site interactivity and event handling.
+- GSAP (GreenSock Animation Platform): The primary engine used for high-performance object manipulation.
+- ScrollTrigger: A powerful GSAP plugin used to sync animations perfectly with the user's scroll position.
