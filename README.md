@@ -1,11 +1,11 @@
-![mojito](./public/images/readme.png)
+<p align="center">
+  <img src="./public/images/readme-circle.png" alt="MIJITO">
+</p>
 
 ## 🍹 Mojito GSAP Practice
-
 A visually stunning and dynamic landing page built to master professional web animations. This project showcases smooth transitions and complex visual effects triggered by user interaction.
 
 ## ✨ Features
-
 - GSAP Animations: Leverages the GreenSock Animation Platform to - create high-performance timelines and seamless element transitions.
 - Parallax Effects: Drink elements and ingredients react to user actions, creating a rich sense of depth and immersion.
 - Enhanced UI/UX: Features modern typography and a vibrant color palette tailored to the product's refreshing theme.
